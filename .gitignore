@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 
+=======
+# Build folder and log file
+build/
+build.log
+>>>>>>> 6b2b6f4d2fb865cb84a35c004d9172b478633f6c
